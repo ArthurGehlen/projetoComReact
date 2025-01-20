@@ -2,7 +2,7 @@
   "projects": [
     {
       "id": "d03c",
-      "name": "asd",
+      "name": "Projeto 1",
       "budget": "123",
       "category": {
         "id": "1",
@@ -12,34 +12,34 @@
       "services": []
     },
     {
-      "id": "308e",
-      "name": "asdasdopasd",
-      "budget": "123",
+      "id": "31c4",
+      "name": "Projeto 2",
+      "budget": "5000",
       "category": {
-        "id": "1",
-        "name": "Infra"
+        "id": "2",
+        "name": "Desenvolvimento"
       },
       "cost": 0,
       "services": []
     },
     {
-      "id": "e7dc",
-      "name": "Tesete",
-      "budget": "123",
+      "id": "1e11",
+      "name": "Projeto 3",
+      "budget": "10000",
       "category": {
-        "id": "1",
-        "name": "Infra"
+        "id": "3",
+        "name": "Design"
       },
       "cost": 0,
       "services": []
     },
     {
-      "id": "4f16",
-      "name": "asd",
-      "budget": "123",
+      "id": "eab3",
+      "name": "Projeto 4",
+      "budget": "3000",
       "category": {
-        "id": "1",
-        "name": "Infra"
+        "id": "4",
+        "name": "Planejamento"
       },
       "cost": 0,
       "services": []
