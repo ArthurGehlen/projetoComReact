@@ -21,6 +21,17 @@
       },
       "cost": 0,
       "services": []
+    },
+    {
+      "id": "8c81",
+      "name": "Teste",
+      "budget": "5000",
+      "category": {
+        "id": "3",
+        "name": "Design"
+      },
+      "cost": 0,
+      "services": []
     }
   ],
   "categories": [
