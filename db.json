@@ -2,8 +2,8 @@
   "projects": [
     {
       "id": "8ea9",
-      "name": "Projeto 2 (atualizado)",
-      "budget": "13000",
+      "name": "Projeto 3",
+      "budget": "11000",
       "category": {
         "id": "2",
         "name": "Desenvolvimento"
